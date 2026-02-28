@@ -1,5 +1,7 @@
 # Hospitality-Booking-Insights-Dashboard
 An interactive Power BI dashboard built using a hospitality dataset to analyze revenue, bookings, customer trends, and business performance using dynamic visuals, KPIs, slicers, and DAX measures.
+## Dataset used
+-<a href="https://github.com/lathifabhanulepakshi/Hospitality-Booking-Insights-Dashboard/blob/main/Hospitality_dataset.xlsm"> Hospitality Dataset</a>
 ## Project Overview
 This project is an interactive Hospitality Booking Insights Dashboard developed using Microsoft Power BI.
 The dashboard transforms raw hospitality data into actionable insights by analyzing revenue trends, booking performance, and service category contributions.
